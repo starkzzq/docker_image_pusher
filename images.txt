@@ -1,1 +1,1 @@
-zzhopezhou/3dgs:1.1
+ripleyaffect/runpod-opensplat:0.15
