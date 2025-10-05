@@ -1,1 +1,7 @@
-nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
+softmac/scaffold-gs:latest
+softmac/gspl:latest
+softmac/cf-3dgs:latest
+softmac/gaussian-splatting:latest
+softmac/hierarchical-3d-gaussians:latest
+softmac/reduced-3dgs:latest
+softmac/s3gs:latest
