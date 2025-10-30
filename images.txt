@@ -1,7 +1,1 @@
-softmac/scaffold-gs:latest
-softmac/gspl:latest
-softmac/cf-3dgs:latest
-softmac/gaussian-splatting:latest
-softmac/hierarchical-3d-gaussians:latest
-softmac/reduced-3dgs:latest
-softmac/s3gs:latest
+zang09/fasterlio-desktop
