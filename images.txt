@@ -1,2 +1,1 @@
-zzwa66/fastlivo2_study:v1
-zzwa66/fastlivo2_study:origin
+fdgalaxy/fastlivo2:latest
