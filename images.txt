@@ -1,1 +1,1 @@
-tyoung96/lvi_sam:1.0
+yanbc/liosam-kinetic-xenial
