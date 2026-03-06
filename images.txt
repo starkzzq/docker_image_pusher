@@ -1,1 +1,1 @@
-vueron/openpcdet:latest
+djiajun1206/pcdet:0.6.0
