@@ -1,1 +1,1 @@
-djiajun1206/pcdet:0.6.0
+valohai/mmdetection3d:0.3
